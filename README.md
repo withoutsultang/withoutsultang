@@ -17,7 +17,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
           </div>
     </div>
-
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 Careers </h2> <br> 
 <table align="center">
   <thead>
     <tr>
