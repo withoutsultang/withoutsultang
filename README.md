@@ -17,39 +17,6 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 Careers </h2> <br> 
-    <table align="center">
-      <thead>
-        <tr>
-          <th>Period</th>
-          <th>Organization</th>
-          <th>Department / Role</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>2019.03 ~ 2024.02</td>
-          <td>인하공업전문대학</td>
-          <td>컴퓨터정보공학과</td>
-        </tr>
-        <tr>
-          <td>2024.03 ~ 2025.02</td>
-          <td>인하공업전문대학</td>
-          <td>인하공업전문대학 심화과정</td>
-        </tr>
-        <tr>
-          <td>2025.07 ~ 2025.08</td>
-          <td>네이버 부스트캠프 웹・모바일 10기 </td>
-          <td>웹 풀스택 베이직 & 챌린지</td>
-        </tr>
-        <tr>
-            <td>2025.09 ~ </td>
-            <td>KT 에이블스쿨 8기</td>
-            <td>AI 개발</td>
-        </tr>
-      </tbody>
-    </table>
-    </div>
+
     
     
